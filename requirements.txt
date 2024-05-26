@@ -7,3 +7,9 @@ gensim
 tensorflow
 keras
 keras-nlp
+pyspellchecker
+seaborn
+matplotlib
+textblob
+spacy
+language_tool_python
